@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.20",
-    "next": "^13.4.7",
+    "next": "^13.4.13",
     "react": "^18.2.0",
     "typescript": "^5.1.6",
     "unbuild": "^1.2.1"
