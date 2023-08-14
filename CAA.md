@@ -1,4 +1,4 @@
-# Preview.js Individual Contributor Assignment Agreement
+# Eusaybia Individual Contributor Assignment Agreement
 
 Thank you for your interest in contributing to Preview.js.
 
@@ -6,7 +6,7 @@ This contributor agreement ("Agreement") documents the rights granted by contrib
 
 ## 1. Definitions
 
-"Us" means Zenc Labs Pty Ltd, incorporated in NSW, Australia.
+"Us" means Stultus Studios Pty Ltd, incorporated in NSW, Australia. Eusaybia products such as NSC currently trade under Stultus Studios Pty Ltd as well.
 
 "You" means the individual who Submits a Contribution to Us.
 
